@@ -1,7 +1,12 @@
 # react-native-ad
 [![npm version](https://badge.fury.io/js/react-native-ad.svg)](https://badge.fury.io/js/react-native-ad)  [![GitHub stars](https://img.shields.io/github/stars/haxibiao/react-native-ad?style=social)](https://github.com/haxibiao/react-native-ad/stargazers)
 
-> **Warn:** 目前项目组正在重写一个新的依赖包（新的依赖包将包含穿山甲，优量汇，百度，快手等平台的广告 SDK，更通用和易扩展），为了项目可持续发展以及维护投入故此暂不开源，如果您有商业合作需要可以 [联系我们](#联系我们-) 购买源码以及技术支持。购买源码后，我们将提供完整源代码以及全方位的对接技术支持和可持续的售后技术服务。
+
+> [!TIP]
+> **TIP:** 目前项目组正在重写一个新的依赖包 react-native-gromore（包含穿山甲，优量汇，百度，快手等平台的广告 SDK，更通用和易扩展），为了项目可持续发展以及维护投入故此暂不开源，如果您有商业合作需要可以 [联系我们](#联系我们-) 购买源码以及技术支持。购买源码后，我们将提供完整源代码以及全方位的对接技术支持和可持续的售后技术服务。
+
+> [!IMPORTANT]
+> <p class="tip">目前穿山甲已推荐对接聚合 GroMore 广告 SDK，我们已经在 React Native 中完成 GroMore 全部广告类型的对接以及 RN 新旧架构，访问 <a href="http://docs.ads.zmkj6.top">http://docs.ads.zmkj6.top</a> 可查看 react-native-gromore 对接文档，也可以通过 <a href="#联系我们-">联系我们</a> 获得源码。</p>
 
 ### 注意事项
 
